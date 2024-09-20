@@ -1,5 +1,6 @@
 ### Risotto aux champignons
-Ingrédients:
+***
+Ingrédients:                      
 - 120g de riz arrizo ou riz rond
 - 2 oignons
 - 100g de champignons 
