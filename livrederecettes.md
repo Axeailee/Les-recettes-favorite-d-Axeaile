@@ -3,4 +3,4 @@
 - [Pancakes Express][id1]
 
 [id]: https://github.com/Axeailee/UBO/blob/main/risotto.mb
-[id1]: https://github.com/Axeailee/UBO/blob/main/pancakesexpress.mb
+[id1]: pancakesexpress.md
