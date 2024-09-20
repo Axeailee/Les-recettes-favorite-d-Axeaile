@@ -1,4 +1,4 @@
-### Risotto aux champignons
+# Risotto aux champignons
 ***
 Ingrédients:                      
 - 120g de riz arrizo ou riz rond
