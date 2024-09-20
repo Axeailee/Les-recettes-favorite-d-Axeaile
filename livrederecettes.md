@@ -1,2 +1,5 @@
 # Livre de recette d'Axeaile
-- risotto (
+- [risotto][id]
+
+[id]: https://github.com/Axeailee/UBO/main/risotto.md
+
