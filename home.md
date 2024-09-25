@@ -9,8 +9,8 @@
 
 <p align="center">
   
-  - [Risotto de champignons][id]  
-  - [Pancakes Express][id1]
+[Risotto de champignons][id]  
+  [Pancakes Express][id1]
 </p>
 
 [id]: https://axeailee.github.io/UBO/risotto.html
