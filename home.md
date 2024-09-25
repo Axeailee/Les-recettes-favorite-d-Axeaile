@@ -1,7 +1,11 @@
 <div style="position: fixed; top: 0; right: 0; width: 200px; height: 100vh; background-image: url('photocuisine.jpeg');">
 </div>
 
-<div style="text-align: right;">
+<header
+<h1>LES RECETTES FAVORITES D'AXEAILE</h1>
+</header>
+
+<div style="text-align: left;">
   <h1>LES RECETTES FAVORITES D'AXEAILE</h1>
 </div>
 
