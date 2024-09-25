@@ -4,7 +4,7 @@
 </div>
 
 <div style="text-align: center;">
-  <h1>₊ ⊹LES RECETTES FAVORITES D'AXEAILE₊ ⊹</h1>
+  <h1>₊ ⊹ LES RECETTES FAVORITES D'AXEAILE ⊹ ₊</h1>
 </div>
 
 <p style="margin-left: 10%; margin-right: 10%; text-align: justify;">
