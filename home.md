@@ -9,7 +9,8 @@
 
 - [Risotto de champignons][id] 
 - [Pancakes Express][id1] 
+- [Poulet façon Karaage & Frites de Patates Douces][id2]
 
-
-[id]: https://axeailee.github.io/UBO/risotto.html
+[id]: risotto.md
 [id1]: pancakesexpress.md
+[id2]: poulet.md
