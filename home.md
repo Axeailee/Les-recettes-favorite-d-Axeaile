@@ -7,11 +7,9 @@
 
 <div style="text-align: right;">
   
- - [Risotto de champignons][id]
-   
+ - [Risotto de champignons][id]   
  - [Pancakes Express][id1]
-   
- <div>
+ </div>
    
 [id]: risotto.md
 [id1]: pancakesexpress.md
