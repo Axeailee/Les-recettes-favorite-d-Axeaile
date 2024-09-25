@@ -10,4 +10,3 @@ Ingrédients:
 - un filet d'huile d'olive
 
 ![alt text](https://assets.afcdn.com/recipe/20221108/137260_w1024h1024c1cx1048cy721cxt0cyt0cxb2119cyb1414.jpg)
-
