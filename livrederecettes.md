@@ -5,6 +5,7 @@
 [id]: risotto.md
 [id1]: pancakesexpress.md
 
-<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('(https://i.pinimg.com/736x/ff/52/32/ff5232e96a4226fe56554925561d7b4a.jpg)'); background-size: cover; text-align: center; color: white;">
-  <p>Bienvenue</p>
+<div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-color: #3498db; color: blue; text-align: center; padding: 20px;">
+  <h2>Bannière gauche</h2>
+  <p>Voici du texte pour ta bannière. Tu peux ajouter des liens ou d'autres éléments ici.</p>
 </div>
