@@ -1,3 +1,4 @@
+title: ""
 <div style="position: fixed; top: 0; left: 0; width: 200px; height: 100vh; background-image: url('photocuisine.jpeg');">
 </div>
 <div style="position: fixed; top: 0; right: 0; width: 200px; height: 100vh; background-image: url('photocuisine.jpeg');">
