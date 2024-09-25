@@ -1,4 +1,4 @@
-<div style="position: fixed; top: 0; left: 0; width: 300px; height: 100vh; background-image: url('photocuisine.jpeg'); text-align: center; padding: 20px;">
+<div style="position: fixed; top: 0; left: 0; width: 300px; height: 100vh; background-image: url('photocuisine.jpeg');">
 </div>
 
 <div style="text-align: right;">
@@ -8,6 +8,7 @@
 <div style="text-align: right;">
   
  - [Risotto de champignons][id]
+   
  - [Pancakes Express][id1]
    
  <div>
