@@ -20,3 +20,5 @@
 4. Quand les oignons sont cuits, rajouter le riz et l'autre moitié du bouillon, puis couvrir la poêle pour une durée de 10 minutes.
 5. Verser le parmesan rapé et les champignons lavés et coupés.
 6. Laisser cuire en remuant régulièrement jusqu'à évaporation de toute l'eau.
+
+Bon appétit !
