@@ -7,7 +7,8 @@
   <h1>LES RECETTES FAVORITES D'AXEAILE</h1>
 </div>
 
-<p align="right">
+<p align="center">
+  
   - [Risotto de champignons][id]  
   - [Pancakes Express][id1]
 </p>
