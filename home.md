@@ -5,7 +5,7 @@ title: ""
 </div>
 
 <div style="text-align: center;">
-  <h2>LES RECETTES FAVORITES D'AXEAILE</h2>
+  <h1>LES RECETTES FAVORITES D'AXEAILE</h1>
 </div>
 
 <div style="text-align: right;">
