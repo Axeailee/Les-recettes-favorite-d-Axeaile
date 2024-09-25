@@ -5,8 +5,11 @@
   <h2>LES RECETTES FAVORITES D'AXEAILE</h2>
 </div>
 
+<div style="text-align: right;">
+  
  - [Risotto de champignons][id]
  - [Pancakes Express][id1]
-
+ <div>
+   
 [id]: risotto.md
 [id1]: pancakesexpress.md
