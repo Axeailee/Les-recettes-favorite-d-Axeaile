@@ -10,6 +10,7 @@
 - (Optionnel) des pépites de chocolat ou des fruits secs
 
 ![alt text](https://4.bp.blogspot.com/-fCIz53Vlo4E/UMz6ZWIYAeI/AAAAAAAACTQ/28G4tZmfw2g/s1600/157+quinoa+pancakes.jpg)
+
 ***
 ## Préparation :
 
