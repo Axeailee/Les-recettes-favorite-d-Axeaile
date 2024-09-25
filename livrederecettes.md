@@ -1,7 +1,12 @@
+<div style="text-align: center;">
+  Les recettes favorites d'Axeaile
+</div>
 
-- [Risotto de champignons][id]
+<div style="text-align: center;">
+  - [Risotto de champignons][id]
 - [Pancakes Express][id1]
-  
+</div>
+
 [id]: risotto.md
 [id1]: pancakesexpress.md
 
