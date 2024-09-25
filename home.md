@@ -13,5 +13,5 @@
   - [Pancakes Express][id1]
 </p>
 
-[id]: risotto.md
+[id]: https://axeailee.github.io/UBO/risotto.html
 [id1]: pancakesexpress.md
