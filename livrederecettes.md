@@ -10,4 +10,3 @@
   <p># Les recettes favorites d'Axeaile </p>
 </div>
 
-greenwallpaper.jpeg
