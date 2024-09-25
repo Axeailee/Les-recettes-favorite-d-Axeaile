@@ -7,11 +7,9 @@
   <h1>LES RECETTES FAVORITES D'AXEAILE</h1>
 </div>
 
-<p align="center">
-  
-  [Risotto de champignons][id]
-  [Pancakes Express][id1]
-</p>
+- [Risotto de champignons][id] 
+- [Pancakes Express][id1] 
+
 
 [id]: https://axeailee.github.io/UBO/risotto.html
 [id1]: pancakesexpress.md
