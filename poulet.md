@@ -1,6 +1,6 @@
-# Poulet façon Karaage & Frites de patates douces 
+# Poulet façon Karaage & Frites de Patates Douces 🍗🍠
 ***
-## Ingrédients:
+## Ingrédients :
 
 | Marinade du poulet                       | Friture du poulet   | Frites de patates douces           |
 |:----------------------------------------:|:-------------------:|:----------------------------------:|
