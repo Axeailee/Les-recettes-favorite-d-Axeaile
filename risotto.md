@@ -1,4 +1,4 @@
-# Risotto aux Champignons
+# Risotto aux Champignons 🍄‍🟫
 ***
 ## Ingrédients :
 - 120g de riz arrizo ou riz rond
