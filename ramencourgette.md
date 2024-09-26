@@ -17,10 +17,11 @@
 ## Préparation :
 
 1. Éplucher et émincer l'oignon, puis couper la courgette en très fines lamelles.
-2. Faire revenir les légumes à feu moyen dans une poêle avec une noisette de beurre et un filet d'huile d'olive.
-3. Une fois que le tout a pris une jolie couleur dorée, y rajouter l'eau et les épices, puis couvrir pendant 5-10 minutes en remuant de temps en temps.
-4. Rajouter les nouilles et les knackis coupées en morceaux. Faire les œufs au plat dans une poêle différente.
-5. Laisser cuire encore 5 minutes tout en remuant jusqu'à ce que les nouilles se séparent.
-6. Servir chaud, avec ou sans le bouillon.
+2. Faire revenir les oignons dans une poêle avec une noisette de beurre et un filet d'huile d'olive.
+3. Une fois les oignons caramélisés, rajouter les courgettes, l'eau et les épices.
+4. Couvrir pendant 10-15 minutes en remuant de temps en temps.
+5. Rajouter les nouilles et les knackis coupées en morceaux. Faire les œufs au plat dans une poêle différente.
+6. Laisser cuire encore 5 minutes tout en remuant jusqu'à ce que les nouilles se séparent.
+7. Servir chaud, avec ou sans le bouillon.
 
 Bon appétit !
