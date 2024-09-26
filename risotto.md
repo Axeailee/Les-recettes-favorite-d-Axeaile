@@ -1,6 +1,6 @@
 # Risotto aux Champignons 🍄‍🟫
 ***
-## Ingrédients :
+## Ingrédients (pour 2 personnes) :
 - 120g de riz arrizo ou riz rond
 - 2 oignons
 - 100g de champignons 
