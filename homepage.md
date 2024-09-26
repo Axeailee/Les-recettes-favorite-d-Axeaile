@@ -8,8 +8,14 @@
 </div>
 
 <p style="margin-left: 10%; margin-right: 10%; text-align: justify;">
-        Bienvenue sur Les Recettes Favorites d'Axeaile ! Ici je partage mes recettes préférées qui répondent aux "3 S": elles sont à la fois saines, savoureuses et satisfaisantes. Je vous laisse naviguer sur le site en cliquant sur les recettes qui vous donnent envie pour découvrir les ingrédients et les étapes qu'il vous faut suivre pour les cuisiner. Ces recettes vous permettront d'améliorer votre niveau en cuisine pour passer d'un niveau *je cuisine bien les pâtes au beurre* à *je sais recevoir des invités en leur proposant des plats de qualité*. 
+        Bienvenue sur Les Recettes Favorites d'Axeaile ! Ici je partage mes recettes préférées qui répondent aux "3 S": elles sont à la fois saines, savoureuses et satisfaisantes. Je vous laisse naviguer sur le site en cliquant sur les recettes qui vous donnent envie pour découvrir les ingrédients et les étapes qu'il vous faut suivre pour les cuisiner. Ces recettes vous permettront d'améliorer votre niveau en cuisine pour passer d'un niveau débutant à avancé en un rien de temps !
 </p>
+
+| Avant |  | Après |
+|:-----:|:-----:|:-----:|
+|*Je cuisine bien les pâtes au beurre*| ➡ |*Je sais recevoir des invités en leur proposant des plats de qualité*.|
+
+***
 
 - [Risotto aux Champignons 🍄‍🟫][id] 
 - [Pancakes Express' 🥞][id1] 
