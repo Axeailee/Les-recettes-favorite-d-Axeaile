@@ -15,8 +15,6 @@
 |:-----:|:-----:|:-----:|
 |*Je cuisine bien les pâtes au beurre*| ➡ |*Je sais recevoir des invités en leur proposant des plats de qualité*.|
 
-***
-
 - [Risotto aux Champignons 🍄‍🟫][id] 
 - [Pancakes Express' 🥞][id1] 
 - [Poulet façon Karaage & Frites de Patates Douces 🍗🍠][id2]
