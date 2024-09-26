@@ -20,7 +20,7 @@
 1. Marinade du poulet (façon Karaage) :
 - Dans un saladier, verser l'huile de sésame, la sauce soja, l'œuf et les épices.
 - Piquer le poulet avec une fourchette et découper le en morceaux d'environ 2x2cm d'épaisseur.
-- Bien mélanger et laisser mariner pendant 30 minutes au réfrigérateur.  
+- Bien mélanger et laisser mariner pendant 30 minutes au réfrigérateur.
   
 2. Frites de patates douces :
 - Laver, brosser et couper les patates douces en forme de petits bâtonnets (c'est mieux de garder la peau !).
