@@ -1,6 +1,6 @@
 # Pancakes Express 🥞
 ***
-## Ingrédients :
+## Ingrédients (pour 2 personnes) :
 - 1 petit pot de compote (n'importe quel goût fera l'affaire)
 - 1 œuf
 - 2 cuillères à soupe de farine
