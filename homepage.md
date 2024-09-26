@@ -12,7 +12,7 @@
 </p>
 
 - [Risotto aux Champignons 🍄‍🟫][id] 
-- [Pancakes Express 🥞][id1] 
+- [Pancakes Express' 🥞][id1] 
 - [Poulet façon Karaage & Frites de Patates Douces 🍗🍠][id2]
 - [Ramen à la Courgette 🍜][id3]
 
