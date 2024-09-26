@@ -1,4 +1,4 @@
-# Pancakes Express 🥞
+# Pancakes Express' 🥞
 ***
 ## Ingrédients (pour 2 personnes) :
 - 1 petit pot de compote (n'importe quel goût fera l'affaire)
