@@ -5,7 +5,7 @@
 - 1 oignon
 - 1 courgette
 - 2 knackis et/ou 2 œufs au plat
-- 50mL d'eau
+- 500 mL d'eau
 - 1 noisette de beurre
 - 1 filet d'huile d'olive
 - Curry, flocons de piment, sel, poivre, gingembre et ail en poudre
