@@ -19,9 +19,9 @@
 1. Éplucher et émincer l'oignon, puis couper la courgette en très fines lamelles.
 2. Faire revenir les oignons dans un fait-tout avec une noisette de beurre et un filet d'huile d'olive.
 3. Une fois les oignons caramélisés, rajouter les courgettes, l'eau et les épices.
-4. Porter à ébullition et couvrir pendant 10-15 minutes en remuant de temps en temps.
+4. Porter à ébullition et couvrir pendant __10-15 minutes__ en remuant de temps en temps.
 5. Une fois les légumes réduits, rajouter les nouilles et les knackis coupées en morceaux si vous en avez envie.
-6. Laisser cuire encore 5 minutes tout en remuant jusqu'à ce que les nouilles se séparent.
+6. Laisser cuire encore __5 minutes__ tout en remuant jusqu'à ce que les nouilles se séparent.
 7. Cuire les œufs au plat dans une poêle à côté si vous en avez envie.
 8. Servir chaud, avec ou sans le bouillon.
 
