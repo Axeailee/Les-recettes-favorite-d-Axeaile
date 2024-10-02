@@ -21,4 +21,4 @@
 5. Verser le parmesan rapé et les champignons lavés et coupés.
 6. Laisser cuire en remuant régulièrement jusqu'à évaporation de toute l'eau.
 
-Bon appétit !
+> Bon appétit !
