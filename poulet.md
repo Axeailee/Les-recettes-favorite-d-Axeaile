@@ -37,4 +37,4 @@
   
 Servir avec de la salade verte pour plus de fraîcheur.
   
-Bon appétit !
+> Bon appétit !
