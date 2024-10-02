@@ -25,4 +25,4 @@
 7. Cuire les œufs au plat dans une poêle à côté si vous en avez envie.
 8. Servir chaud, avec ou sans le bouillon.
 
-Bon appétit !
+> Bon appétit !
